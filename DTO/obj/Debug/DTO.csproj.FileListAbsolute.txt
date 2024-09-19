@@ -1,0 +1,4 @@
+\\Mac\Home\Documents\study\se310-.net\WindowDocument\SE310-Practice\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+\\Mac\Home\Documents\study\se310-.net\WindowDocument\SE310-Practice\DTO\obj\Debug\DTO.Properties.Resources.resources
+\\Mac\Home\Documents\study\se310-.net\WindowDocument\SE310-Practice\DTO\obj\Debug\DTO.csproj.GenerateResource.cache
+\\Mac\Home\Documents\study\se310-.net\WindowDocument\SE310-Practice\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache

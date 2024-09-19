@@ -1,0 +1,4 @@
+\\Mac\Home\Documents\study\se310-.net\WindowDocument\SE310-Practice\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+\\Mac\Home\Documents\study\se310-.net\WindowDocument\SE310-Practice\DAL\obj\Debug\DAL.Properties.Resources.resources
+\\Mac\Home\Documents\study\se310-.net\WindowDocument\SE310-Practice\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+\\Mac\Home\Documents\study\se310-.net\WindowDocument\SE310-Practice\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache

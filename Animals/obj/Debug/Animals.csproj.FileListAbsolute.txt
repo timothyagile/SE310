@@ -1,0 +1,5 @@
+\\Mac\Home\Documents\study\se310-.net\WindowDocument\SE310-Practice\Animals\obj\Debug\Animals.csproj.AssemblyReference.cache
+\\Mac\Home\Documents\study\se310-.net\WindowDocument\SE310-Practice\Animals\obj\Debug\Animals.Form1.resources
+\\Mac\Home\Documents\study\se310-.net\WindowDocument\SE310-Practice\Animals\obj\Debug\Animals.Properties.Resources.resources
+\\Mac\Home\Documents\study\se310-.net\WindowDocument\SE310-Practice\Animals\obj\Debug\Animals.csproj.GenerateResource.cache
+\\Mac\Home\Documents\study\se310-.net\WindowDocument\SE310-Practice\Animals\obj\Debug\Animals.csproj.CoreCompileInputs.cache

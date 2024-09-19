@@ -1,0 +1,4 @@
+\\Mac\Home\Documents\study\se310-.net\WindowDocument\SE310-Practice\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+\\Mac\Home\Documents\study\se310-.net\WindowDocument\SE310-Practice\BLL\obj\Debug\BLL.Properties.Resources.resources
+\\Mac\Home\Documents\study\se310-.net\WindowDocument\SE310-Practice\BLL\obj\Debug\BLL.csproj.GenerateResource.cache
+\\Mac\Home\Documents\study\se310-.net\WindowDocument\SE310-Practice\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
